@@ -1,9 +1,6 @@
 // Program: subtract a square game
 
 //name:seba ibraheem ezzat mohamed
-//ID:20231087
-//section: i don't have a section yet
-//group A
 
 // Version: 1.1
 
